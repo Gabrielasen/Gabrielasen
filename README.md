@@ -10,11 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 Tenho 20 anos e moro na zona leste de São Paulo.
 - 💬 Na data 17/09/2020, trabalhei como Jovem Aprendiz na empresa Otis Elevedores até o dia 12/11/2021.
-- Funções: detalhamento de projetos; desenvolvimento de projetos técnicos e atendimento das
-normativas prediais de acesso e manutenção de edifícios.
+- Funções: digitação de dados no sistema intranet; Organização de contratos; Atendimento telefônico e recebimento de documentos.
 - Iniciei na empresa Ancorato Engenharia na data 10/01/2022, como estagiária em Arquitetura e Urbanismo e permaneci até o dia 12/11/2021.
-- Funções: digitação de dados no sistema intranet; Organização de contratos; Atendimento telefônico
-e recebimento de documentos.
+- Funções: detalhamento de projetos; desenvolvimento de projetos técnicos e atendimento das normativas prediais de acesso e manutenção de edifícios.
 - 📫 Email: gabrielacoutinho11@gmail.com / Celular: 11953443105
 - 😄 Pronouns:ela/dela
 - ⚡ Gosto de tocar instrumento musical.
