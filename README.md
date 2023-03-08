@@ -21,4 +21,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/Gabrielasen">
   <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=Gabrielasen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielasen&layout=compact&langs_count=16&theme=dracula">
-    </di>
+    </div>
+
+<div>   
+     <a href="https://instagram.com/sgabriela3394" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielacoutinho11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  
+  
+</div>
