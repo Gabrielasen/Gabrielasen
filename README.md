@@ -19,3 +19,8 @@ e recebimento de documentos.
 - 😄 Pronouns:ela/dela
 - ⚡ Gosto de tocar instrumento musical.
 
+<div>
+  <a href="https://github.com/Gabrielasen">
+  <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=Gabrielasen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielasen&layout=compact&langs_count=16&theme=dracula">
+    </di>
