@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 Atualmente estou fazendo o curso de Front-End da Ford Enter e cursando o 7° semestre de Arquitetura e Urbanismo na Unicid.
 - 👯 I’m looking to collaborate on ...
 - 🤔 Tenho 21 anos e moro na zona leste de São Paulo.
-- 💬 Na data 17/09/2020, trabalhei como Jovem Aprendiz na empresa Otis Elevedores até o dia 12/11/2021.
+- 💬 Na data 17/09/2020, trabalhei como Jovem Aprendiz na empresa Otis Elevadores até o dia 12/11/2021
 - Funções: digitação de dados no sistema intranet; Organização de contratos; Atendimento telefônico e recebimento de documentos.
 - Iniciei na empresa Ancorato Engenharia na data 10/01/2022, como estagiária em Arquitetura e Urbanismo e permaneci até o dia 12/11/2021.
 - Funções: detalhamento de projetos; desenvolvimento de projetos técnicos e atendimento das normativas prediais de acesso e manutenção de edifícios.
