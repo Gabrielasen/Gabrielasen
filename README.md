@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 No momento me encontro desempregada.
-- 🌱 Atualmente estou fazendo o curso de Front-End da Ford Enter e cursando o 7° semestre de Arquitetura e Urbanismo na Unicid.
+- 🌱 Atualmente estou fazendo o curso de Front-End e cursando o 8° semestre de Arquitetura e Urbanismo na Unicid.
 - 👯 I’m looking to collaborate on ...
 - 🤔 Tenho 21 anos e moro na zona leste de São Paulo.
 - 💬 Na data 17/09/2020, trabalhei como Jovem Aprendiz na empresa Otis Elevadores até o dia 12/11/2021
